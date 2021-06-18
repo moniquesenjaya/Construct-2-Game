@@ -1,9 +1,11 @@
-Multimedia Construct 2 Mid-Term Game Project (theme: Kindergarten games)
+# Multimedia Construct 2 Mid-Term Game Project (theme: Kindergarten games)
 
-Learn it up ! A typing game developed by Monique Senjaya and Ardelia Shaula Araminta
+## Learn it up ! A typing game developed by Monique Senjaya and Ardelia Shaula Araminta
 
+Contributors:
 Monique Senjaya : Construct 2
 Ardelia Shaula Araminta : Art, Design
+
 In this project, we created a typing game aimed to 5-8 years old to learn how to type and also develop three essentials early skills:
 1. Alphabets
 2. Numbers
